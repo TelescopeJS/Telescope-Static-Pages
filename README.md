@@ -1,1 +1,1 @@
-See http://www.telesc.pe/docs/static-pages
+See http://www.telescopeapp.org/docs/tutorials/adding-static-pages/
